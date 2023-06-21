@@ -1,0 +1,9 @@
+pandas
+numpy
+plotly
+scipy
+scikit-learn
+tabulate
+matplotlib
+statsmodels
+pmdarima
